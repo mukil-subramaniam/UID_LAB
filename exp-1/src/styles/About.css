@@ -1,0 +1,55 @@
+.about {
+    padding: 60px 20px;
+    background-color: #f0f0f0;
+    text-align: center;
+  }
+  
+  .about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  .about h2 {
+    font-size: 2.2em;
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center; 
+  }
+  
+  .about p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #555;
+    margin: 0 auto 20px; 
+    max-width: 700px; 
+  }
+  
+  .about ul {
+    list-style: disc;
+    padding-left: 20px;
+    margin: 0 auto; 
+    max-width: 700px; 
+  }
+  
+  .about ul li {
+    font-size: 1.1em;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .about .highlight {
+    font-weight: bold;
+    color: #007BFF;
+  }
+  
+  .about img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 30px;
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+  }
+  

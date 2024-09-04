@@ -1,0 +1,38 @@
+.services {
+    margin-bottom: 50px;
+    padding: 0 20px; 
+  }
+  
+  .services h3 {
+    font-size: 2.5em; 
+    margin-bottom: 20px; 
+    font-weight: 500;
+    color: #333;
+    text-align: center; 
+  }
+  
+  .services ul {
+    list-style: none;
+    padding: 0;
+    font-size: 1.2em;
+    color: #555;
+    max-width: 900px; 
+    margin: 0 auto; 
+    text-align: left;
+  }
+  
+  .services ul li {
+    margin: 10px 0; 
+    line-height: 1.6; 
+    padding-left: 10px; 
+    position: relative; 
+  }
+  
+  .services ul li::before {
+    content: '•'; 
+    color: #007BFF; 
+    position: absolute;
+    left: -20px; 
+    font-size: 1.5em; 
+  }
+  
